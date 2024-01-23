@@ -16,11 +16,11 @@ Before running the script, ensure you have the following prerequisites installed
    python hierarchical_clustering.py
 
 ## Description
-Importing Libraries: The necessary libraries (NumPy, Matplotlib, Pandas, scikit-learn, SciPy) are imported.
-Importing Dataset: The customer dataset (`Customers.csv`) is loaded, and the relevant features are selected.
-Dendrogram: The script uses a dendrogram to visualize the hierarchical clustering process and determine the optimal number of clusters.
-Hierarchical Clustering: The Hierarchical Clustering algorithm is applied to the dataset using Agglomerative Clustering.
-Visualizing Clusters: The script visualizes the clusters by plotting the data points. The clusters are determined by cutting the dendrogram at a specific level.
+- Importing Libraries: The necessary libraries (NumPy, Matplotlib, Pandas, scikit-learn, SciPy) are imported.
+- Importing Dataset: The customer dataset (`Customers.csv`) is loaded, and the relevant features are selected.
+- Dendrogram: The script uses a dendrogram to visualize the hierarchical clustering process and determine the optimal number of clusters.
+- Hierarchical Clustering: The Hierarchical Clustering algorithm is applied to the dataset using Agglomerative Clustering.
+- Visualizing Clusters: The script visualizes the clusters by plotting the data points. The clusters are determined by cutting the dendrogram at a specific level.
 
 ## Results
 The script generates a plot showing the clusters of customers based on their annual income and spending score. Each cluster is assigned a different color, and the clusters are labeled accordingly.
