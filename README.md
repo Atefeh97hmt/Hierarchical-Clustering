@@ -8,8 +8,8 @@ Before running the script, ensure you have the following prerequisites installed
 
 ## Getting Started
 1. Clone the repository:
-   git clone https://github.com/Atefeh97hmt/Hierarchical-Clustering
-   cd Hierarchical-Clustering
+   - git clone https://github.com/Atefeh97hmt/Hierarchical-Clustering
+   - cd Hierarchical-Clustering
 2. Install the required libraries
 3. Download the dataset (`Customers.csv`) and place it in the root directory.
 4. Run the script:
